@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Banner de cabecera -->
-<img src="https://raw.githubusercontent.com/Jonny03M/Jonny03M/main/tu-banner.png" alt="Jonny Mendez Cuahuizo" width="100%" />
 
 # ¡Hola, soy Jonny Mendez! 👋
 ### Backend & Software Developer | Computer Science Student @ BUAP
